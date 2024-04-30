@@ -1,0 +1,6 @@
+[package]
+name        = "turing-machine"
+description = "Turing Machine in Flix"
+version     = "0.1.0"
+flix        = "0.46.0"
+authors     = ["John Doe <john@example.com>"]
